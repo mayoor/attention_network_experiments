@@ -8,6 +8,8 @@ Attention networks for Toxicity challenge
 
 
 # Transformer Implementation using Keras
-https://arxiv.org/abs/1706.03762
+Implementation of Attention Is All you Need from - https://arxiv.org/abs/1706.03762
+<br>
 transformer.py
 
+![Alt text](transformer.png?raw=true "Transformer Model using Kears")
