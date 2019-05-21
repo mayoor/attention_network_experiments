@@ -6,3 +6,8 @@ Attention networks for Toxicity challenge
 * https://www.cs.cmu.edu/~./hovy/papers/16HLT-hierarchical-attention-networks.pdf
 * https://www.aclweb.org/anthology/D14-1181
 
+
+# Transformer Implementation using Keras
+https://arxiv.org/abs/1706.03762
+transformer.py
+
