@@ -84,7 +84,7 @@ def get_multi_head_attn(input, head_size, embedding_size,name="multi_head"):
     transformers = []
     for i in range(head_size):
         x1 = SDPA(100)(input)
-        xh = Dense(100, activation='relu')(x1)
+        # xh = Dense(100, activation='relu')(x1)
         transformers.append(xh)
     x = Concatenate()(transformers)
     x = Dense(embedding_size, name=name)(x)
