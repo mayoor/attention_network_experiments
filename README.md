@@ -1,6 +1,8 @@
 # attention_network_experiments
 Attention networks for Toxicity challenge
 
+https://mybinder.org/v2/gh/mayoor/attention_network_experiments/master
+
 ## The implementation involves combination of architecture from following papers - 
 
 * https://www.cs.cmu.edu/~./hovy/papers/16HLT-hierarchical-attention-networks.pdf
